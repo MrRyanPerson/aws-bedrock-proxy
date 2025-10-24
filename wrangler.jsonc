@@ -1,7 +1,7 @@
 {
-	"name": "<TBD>",
+	"name": "aws-bedrock-proxy",
 	"main": "src/index.js",
-	"compatibility_date": "<TBD>",
+	"compatibility_date": "2025-10-24",
 	"observability": {
 		"enabled": true,
 	},
